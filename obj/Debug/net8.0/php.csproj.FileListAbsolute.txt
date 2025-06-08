@@ -1,0 +1,14 @@
+/home/wagner/Imagens/php/bin/Debug/net8.0/php
+/home/wagner/Imagens/php/bin/Debug/net8.0/php.deps.json
+/home/wagner/Imagens/php/bin/Debug/net8.0/php.runtimeconfig.json
+/home/wagner/Imagens/php/bin/Debug/net8.0/php.dll
+/home/wagner/Imagens/php/bin/Debug/net8.0/php.pdb
+/home/wagner/Imagens/php/obj/Debug/net8.0/php.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/Imagens/php/obj/Debug/net8.0/php.AssemblyInfoInputs.cache
+/home/wagner/Imagens/php/obj/Debug/net8.0/php.AssemblyInfo.cs
+/home/wagner/Imagens/php/obj/Debug/net8.0/php.csproj.CoreCompileInputs.cache
+/home/wagner/Imagens/php/obj/Debug/net8.0/php.dll
+/home/wagner/Imagens/php/obj/Debug/net8.0/refint/php.dll
+/home/wagner/Imagens/php/obj/Debug/net8.0/php.pdb
+/home/wagner/Imagens/php/obj/Debug/net8.0/php.genruntimeconfig.cache
+/home/wagner/Imagens/php/obj/Debug/net8.0/ref/php.dll
